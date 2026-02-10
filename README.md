@@ -23,23 +23,7 @@ The implementation strictly follows the response format, validation rules, and e
 
 ---
 
-## 📂 Project Structure
 
-bfhl-api/
-├── src/
-│   ├── controllers/
-│   │   └── bfhl.controller.js
-│   ├── routes/
-│   │   └── bfhl.routes.js
-│   ├── utils/
-│   │   ├── math.utils.js
-│   │   └── ai.utils.js
-│   └── server.js
-│
-├── .env.example
-├── .gitignore
-├── package.json
-└── README.md
 
 ---
 
