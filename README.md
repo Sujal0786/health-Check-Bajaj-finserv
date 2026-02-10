@@ -1,10 +1,3 @@
-Got it 👍
-You want **plain ready-to-copy text**, **no code blocks around it**, so when you paste it into `README.md` it just works.
-
-Below is **exactly that**.
-👉 **Select all → Copy → Paste into README.md → Save → Commit**
-
----
 
 # 🚀 BFHL API – Chitkara University Qualifier
 
